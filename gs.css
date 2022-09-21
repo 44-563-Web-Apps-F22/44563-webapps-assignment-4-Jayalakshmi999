@@ -1,0 +1,41 @@
+.name{
+    font: italic;
+    font-size: 20px;
+    color: black;
+}
+.directions{
+    font: italic;
+    font-size: 20px;
+    color: black;
+    background-color: lavenderblush;
+    
+    
+}
+.directions:hover{
+    background-color: aquamarine;
+    color:blue;
+}
+.speech{
+    font: italic;
+    font-size: 20px;
+    color: black;
+
+}
+.blan{
+    color:red;
+}
+.all{
+    color:blueviolet
+}
+.sach{
+    color:green;
+}
+.girls{
+    color:yellow;
+}
+.speech{
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1;
+}
