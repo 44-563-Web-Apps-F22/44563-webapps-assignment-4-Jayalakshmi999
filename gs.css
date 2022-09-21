@@ -2,6 +2,10 @@
     font: italic;
     font-size: 20px;
     color: black;
+    text-shadow: 2px 2px 5px black;
+    border:1px solid red;
+    border-radious:25%;
+    padding:5px;
 }
 .directions{
     font: italic;
@@ -33,9 +37,56 @@
 .girls{
     color:yellow;
 }
+.blan:hover{
+    text-shadow: 2px 2px 5px black;
+    border:1px solid red;
+    border-radious:25%;
+    padding:5px;
+}
+.all:hover{
+    text-shadow: 2px 2px 5px black;
+    border:1px solid blueviolet;
+    border-radious:25%;
+    padding:5px;
+}
+.sach:hover{
+    text-shadow: 2px 2px 5px black;
+    border:1px solid green;
+    border-radious:25%;
+    padding:5px;
+}
+.girls:hover{
+    text-shadow: 2px 2px 5px black;
+    border:1px solid yellow;
+    border-radious:25%;
+    padding:5px;
+
+}
 .speech{
     text-align: left;
     letter-spacing: 1px;
     word-spacing: 2px;
     line-height: 1;
+}
+table, th, td {
+    border: 1px solid rgb(106, 244, 14);
+    border-collapse: collapse;
+  }
+th{
+    
+    color:brown;
+    
+}
+
+th,td{
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+td{
+    color:black;
+}
+a{
+    color:chocolate;
 }
