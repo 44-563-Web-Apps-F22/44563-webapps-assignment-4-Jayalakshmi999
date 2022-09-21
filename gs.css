@@ -2,10 +2,7 @@
     font: italic;
     font-size: 20px;
     color: black;
-    text-shadow: 2px 2px 5px black;
-    border:1px solid red;
-    border-radious:25%;
-    padding:5px;
+    
 }
 .directions{
     font: italic;
@@ -40,27 +37,33 @@
 .blan:hover{
     text-shadow: 2px 2px 5px black;
     border:1px solid red;
-    border-radious:25%;
+    border-radious:25px;
     padding:5px;
 }
 .all:hover{
     text-shadow: 2px 2px 5px black;
     border:1px solid blueviolet;
-    border-radious:25%;
+    border-radious:25px;
     padding:5px;
 }
 .sach:hover{
     text-shadow: 2px 2px 5px black;
     border:1px solid green;
-    border-radious:25%;
+    border-radious:25px;
     padding:5px;
 }
 .girls:hover{
     text-shadow: 2px 2px 5px black;
     border:1px solid yellow;
-    border-radious:25%;
+    border-radious:25px;
     padding:5px;
 
+}
+.name:hover{
+    text-shadow: 2px 2px 5px black;
+    border:1px solid red;
+    border-radious:25px;
+    padding:5px;
 }
 .speech{
     text-align: left;
